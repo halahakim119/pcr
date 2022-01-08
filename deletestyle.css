@@ -1,0 +1,47 @@
+
+.deletebtn{
+  width:15px;
+  height:15px;
+}
+
+#deletetmodal{
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 30%;
+    height: 24%;
+    border-radius: 5px;
+}
+
+.delete{
+  float:left;
+  width: 25%;
+  color:#64ADBD;
+	background: white;
+	padding: 5px;
+	border: 0;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+  margin-top: 35px;
+}
+
+.delete2{
+  width: 25%;
+  color:#64ADBD;
+	background: white;
+	padding: 5px;
+	border: 0;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+  margin: 12px;
+}
+
+.delete:hover ,.delete2:hover{
+  background: lightblue;
+}
+.delete:active ,.delete2:active{
+  background: #016075;
+  color:white;
+  border:0;
+}

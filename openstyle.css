@@ -1,0 +1,47 @@
+
+.openbtn{
+  width:15px;
+  height:15px;
+}
+
+#openmodal{
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 40%;
+    height: 70%;
+    border-radius: 5px;
+}
+
+.delete2{
+  width: 25%;
+  color:#64ADBD;
+	background: white;
+	padding: 5px;
+	border: 0;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+  margin: 12px;
+}
+
+.delete2:hover{
+  background: lightblue;
+}
+.delete2:active{
+  background: #016075;
+  color:white;
+  border:0;
+}
+p input {
+  border: none;
+  display: inline;
+  font-family: inherit;
+  font-size:20px;
+  padding: none;
+  width: auto;
+}
+label{
+  font-family: inherit;
+  font-size:20px;
+}
